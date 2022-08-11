@@ -16,3 +16,4 @@ a code) once you do that you should be able to copy and past the bot token <3
 
 
 
+NOTE: I might add slash commands sometime soon
